@@ -57,5 +57,29 @@ user[1].email
 
 // Object Destructuring
 
+const course = {
+    coursename: "Abc",
+    price:1000,
+    courseInstructor:"malaika"
 
+}
+// course.courseInstructor
+
+const {courseInstructor: instructor} = course
+// console.log(courseInstructor);
+// console.log(instructor);
+
+
+/*Apis and JSon */
+// {
+//     "name":"malaika",        "this is called json format where keys band values both are couted in double strings"
+//     "last-name":"saba",
+//     "organization":"shedev"
+// }
+
+[
+    {},
+    {},
+    {}
+]
 
