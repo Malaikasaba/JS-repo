@@ -1,9 +1,12 @@
+/* How data is stored and accessed from a memory location 
+on the basis of this the data is categorized into the following categories
+Primitive DataType & Non-primitive OR Referenc */
 
-// Primitive DataType
-
-// 7 Categories: a) Number b) Null c) String d) Boolean d) Undefined e) Symbol f)Bigint
+/* 01) Primitive DataType
+   7 Categories: 
+   a) Number b) Null c) String d) Boolean d) Undefined e) Symbol f)Bigint */
 // Symbol is used for uniqueness.
-// Non-primitive OR Referenc
+// 02) Non-primitive OR Referenc
 
 
 const score = 100;
